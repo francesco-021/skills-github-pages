@@ -1,5 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-I want a black background 
-writen in which : this is a prove for my exercise
+this is were I post all the project I'm planning to developed 
